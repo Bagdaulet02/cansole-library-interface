@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16" ?>
+
+<book_list>
+
+	<book>
+		<name>Example</name>
+		<author>Examplson E.</author>
+		<tags>Tag1; tag2; just tag3</tag>
+	</book>
+
+</book_list>
